@@ -31,11 +31,11 @@ projects:
 social_media:
   # behance: aung Pai
   # dribbble: your_username
-  facebook: https://www.facebook.com/jade.dabz.1
+    facebook: jade.dabz.1 
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: linkedin.com/in/aung-paing-oo-1630b41a1
+    linkedin: aung-paing-oo-1630b41a1
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -49,12 +49,13 @@ social_media:
 topics:
   - name: Linux
     web_url: https://github.com/topics/linux
-    image_url: 	https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/linux/linux.png 	
+    image_url: https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
-  - name: Docker
-    web_url: https://www.docker.com/products/docker-hub/ 
+  - name: Docker 
+    web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/8…fca1e82350fe8e3517d3494d/topics/docker/docker.png
-    	
+
   - name: Kubernetes
-    web_url: https://kubernetes.io/
+    web_url: https://github.com/topics/k8s
     image_url: https://raw.githubusercontent.com/github/explore/8…50fe8e3517d3494d/topics/kubernetes/kubernetes.png
+

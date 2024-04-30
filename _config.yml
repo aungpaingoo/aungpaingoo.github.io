@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
- social_media:
-  #behance: aung Pai
+social_media:
+  # behance: aung Pai
   # dribbble: your_username
-   facebook: https://www.facebook.com/jade.dabz.1
+  facebook: https://www.facebook.com/jade.dabz.1
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-   linkedin: linkedin.com/in/aung-paing-oo-1630b41a1
+  linkedin: linkedin.com/in/aung-paing-oo-1630b41a1
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
